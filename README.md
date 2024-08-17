@@ -10,3 +10,5 @@ each folder is a project you need to setup with the obvious dependancies, nothin
 windows defender will detect this and delete the injection.exe after a few uses
 malwarebytes will detect on activation and quarentine or delete it.
 
+This was already available from various sources on the internet, and is only an example of remote thread dll code injection. with a couple scanners that used to work at some point.
+
